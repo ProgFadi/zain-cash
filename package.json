@@ -1,5 +1,8 @@
 {
-  "name": "zain-cash-package",
+  "name": "@progfadi/zain-cash-package",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/ProgFadi"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "dist/cjs/index.ts",
